@@ -6,7 +6,7 @@
 
 ---
 
-Don't get too excited
+***Don't get too excited***
 
 ![](https://media.giphy.com/media/26AHLspJScv2J6P0k/giphy.gif)
 
@@ -20,17 +20,17 @@ A bunch of things that don't matter to us
 
 ---
 
-What really matters
+***What really matters***
 
 ![](https://media.giphy.com/media/UlT6oxzi1v2g0/giphy.gif)
 
 ---
 
-Supporting Diabetes Management
+***Supporting Diabetes Management***
 
 - Blood glucose meal time
-```
 
+```
 public let HKMetadataKeyBloodGlucoseMealTime: String
 public enum HKBloodGlucoseMealTime: Int {
  case preprandial
@@ -39,12 +39,11 @@ public enum HKBloodGlucoseMealTime: Int {
 ```
 ---
 
-Supporting Diabetes Management
+***Supporting Diabetes Management***
 
 - Insulin delivery
 
 ```
-
 public static let insulinDelivery: HKQuantityTypeIdentifier
 public let HKMetadataKeyInsulinDeliveryReason: String
 public enum HKInsulinDeliveryReason : Int {
@@ -52,3 +51,4 @@ public enum HKInsulinDeliveryReason : Int {
  case bolus
 }
 ```
+---
