@@ -15,7 +15,7 @@
 A bunch of things that don't matter to us
 - Support for new workout types
 - A lot of new features for swimming
-- New Workout API updates including new data type -> routes
+- New Workout API updates including workout routes
 - Sync data now includes identifiers and versioning
 
 ---
@@ -52,3 +52,14 @@ public enum HKInsulinDeliveryReason : Int {
 }
 ```
 ---
+
+***Supporting Diabetes Management***
+
+watchOS 4 supports CoreBluetooth
+
+![](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+
+---
+
+# What's New in ResearchKit
+
