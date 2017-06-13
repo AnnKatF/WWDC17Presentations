@@ -2,7 +2,7 @@
 
 <!-- footer: Powered by babylon health -->
 
-***What's New in Health***
+# What's New in Health
 
 ---
 
@@ -21,6 +21,7 @@ A bunch of things that don't matter to us
 ---
 
 What really matters
+
 ![](https://media.giphy.com/media/UlT6oxzi1v2g0/giphy.gif)
 
 ---
@@ -29,6 +30,7 @@ Supporting Diabetes Management
 
 - Blood glucose meal time
 ```
+
 public let HKMetadataKeyBloodGlucoseMealTime: String
 public enum HKBloodGlucoseMealTime: Int {
  case preprandial
@@ -42,6 +44,7 @@ Supporting Diabetes Management
 - Insulin delivery
 
 ```
+
 public static let insulinDelivery: HKQuantityTypeIdentifier
 public let HKMetadataKeyInsulinDeliveryReason: String
 public enum HKInsulinDeliveryReason : Int {
