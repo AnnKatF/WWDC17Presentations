@@ -57,9 +57,75 @@ public enum HKInsulinDeliveryReason : Int {
 
 watchOS 4 supports CoreBluetooth
 
-![](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+![](https://media.giphy.com/media/jVStxzak9yk2Q/giphy.gif)
 
 ---
 
 # What's New in ResearchKit
+
+---
+
+![](http://www.troll.me/images/arnold-disgusting/whats-that-.jpg)
+
+---
+
+# What's ResearchKit
+
+- Open source framework.
+- Allows developers and researches to build surveys for medical research.
+- It helps health professionals and researchers to recruit partipants to take surveys or to just provide data.
+- It is linked with HealthKit to access more relevant data for the studies.
+
+---
+
+![](http://blog.zuehlke.com/wp-content/uploads/2015/07/Slide5-755x334.png)
+
+---
+
+# What's New in ResearchKit
+
+- Tone Audiometry - Hearing test
+- Stroop test - Selective attention test
+- Trail making test - neuro psychological test
+- Range of Motion - Measure flexed and extended positions
+
+---
+
+# What's CareKit
+
+- Open source framework
+- Evolved from ResearchKit
+- Great for cronic (ex: mental health) and acute (ex: surgery recovery) use cases
+- It is linked with HealthKit to access relevant data to update the plans.
+- Can use ResearchKit to assess the patient.
+
+---
+
+![](http://blog.shazino.com/imgs/articles/dev/carekit-introduction/carekit-screens.png)
+
+- Care Card - displays treatment plan and progress
+- Symptom Tracker - record measurements
+- Insights - displays trends and gaps in patient care
+- Connect - share data with family members or healthcare team
+---
+
+# What's New in CareKit
+
+- Care Contents - combine Care Card with Symptom Tracker
+- Configure thresholds in the assessments that will trigger alerts when something is above it.
+- Chat to connect with healthcare providers
+
+---
+
+# Thanks
+
+---
+
+# Questions?
+
+---
+
+![](http://troll.me/images/like-in-the-simpsons/wohoo-its-finally-over.jpg)
+
+---
 
