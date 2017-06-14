@@ -1,5 +1,9 @@
 ---
 
+# What's New in HealthKit, ResearchKit and CareKit
+
+---
+
 # What's New in Health
 
 ---
@@ -37,8 +41,6 @@ public enum HKBloodGlucoseMealTime: Int {
 ```
 ---
 
-***Supporting Diabetes Management***
-
 - Insulin delivery
 
 ```
@@ -50,8 +52,6 @@ public enum HKInsulinDeliveryReason : Int {
 }
 ```
 ---
-
-***Supporting Diabetes Management***
 
 watchOS 4 supports CoreBluetooth
 
@@ -66,8 +66,6 @@ watchOS 4 supports CoreBluetooth
 ![](http://www.troll.me/images/arnold-disgusting/whats-that-.jpg)
 
 ---
-
-# What's ResearchKit
 
 - Open source framework.
 - Build surveys for medical research.
@@ -122,10 +120,4 @@ watchOS 4 supports CoreBluetooth
 # Questions?
 
 ![](http://3.bp.blogspot.com/-GWMIlb455pg/VOvngWloxnI/AAAAAAAAGZQ/xibdXIzAJJE/s1600/Is+Anyone+Listening+Meme.PNG)
-
----
-
-![](http://troll.me/images/like-in-the-simpsons/wohoo-its-finally-over.jpg)
-
----
 
