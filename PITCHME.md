@@ -7,7 +7,7 @@
 
 ---
 
-# What's New in Health
+# What's New in HealthKit
 
 ---
 
