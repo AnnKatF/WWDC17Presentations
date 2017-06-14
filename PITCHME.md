@@ -1,7 +1,5 @@
 ---
 
-<!-- footer: Powered by babylon health -->
-
 # What's New in Health
 
 ---
@@ -72,9 +70,9 @@ watchOS 4 supports CoreBluetooth
 # What's ResearchKit
 
 - Open source framework.
-- Allows developers and researches to build surveys for medical research.
-- It helps health professionals and researchers to recruit partipants to take surveys or to just provide data.
-- It is linked with HealthKit to access more relevant data for the studies.
+- Build surveys for medical research.
+- Recruit partipants to take surveys or to just provide data.
+- It is linked with HealthKit
 
 ---
 
@@ -96,7 +94,7 @@ watchOS 4 supports CoreBluetooth
 - Open source framework
 - Evolved from ResearchKit
 - Great for cronic (ex: mental health) and acute (ex: surgery recovery) use cases
-- It is linked with HealthKit to access relevant data to update the plans.
+- It is linked with HealthKit
 - Can use ResearchKit to assess the patient.
 
 ---
@@ -117,11 +115,13 @@ watchOS 4 supports CoreBluetooth
 
 ---
 
-# Thanks
+![](http://a.memegen.com/2cj5nl.gif)
 
 ---
 
 # Questions?
+
+![](http://3.bp.blogspot.com/-GWMIlb455pg/VOvngWloxnI/AAAAAAAAGZQ/xibdXIzAJJE/s1600/Is+Anyone+Listening+Meme.PNG)
 
 ---
 
