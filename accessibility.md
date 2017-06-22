@@ -73,16 +73,18 @@ secondLabel.firstBaselineAnchor
 	
 ![inline, fit](https://raw.githubusercontent.com/AnnKatF/WWDC17Presentations/master/label_cropped.jpg)
 
+![inline, fit](https://raw.githubusercontent.com/AnnKatF/WWDC17Presentations/master/label_vertical.jpg)
+
 ---
 	Example:
 
-	```swift
+```swift
 	if traitCollection.preferredContentSizeCategory > .extraExtraLarge { 
 		// Vertically stack
 	} else {
 		// Lay out side by side
 	}
-	```
+```
 
 	Note: Standard table view cells will handle it automatically.
 ---
