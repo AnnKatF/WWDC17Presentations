@@ -71,9 +71,7 @@ secondLabel.firstBaselineAnchor
 
 	For side by side labels with large text size the labels should be moved to a vertical stack
 	
-![inline](https://www.dropbox.com/home/WWDC17Presentations/Images?preview=label_cropped.jpg)
-
-	`traitCollection.preferredContentSizeCategory`
+![inline, fit](https://raw.githubusercontent.com/AnnKatF/WWDC17Presentations/master/label_cropped.jpg)
 
 ---
 	Example:
