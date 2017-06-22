@@ -25,7 +25,7 @@
 
 ---
 
-### Improved Photo Descriptions
+### Improved Photo Description
 
 ![inline](https://s-media-cache-ak0.pinimg.com/736x/50/9c/6e/509c6ecc57c2fd7c79911d1b24c9447a--baby-beach-beach-babies.jpg)
 
@@ -76,7 +76,10 @@ secondLabel.firstBaselineAnchor
 ![inline, fit](https://raw.githubusercontent.com/AnnKatF/WWDC17Presentations/master/label_vertical.jpg)
 
 ---
-	Example:
+
+<br>
+<br>
+Example:
 
 ```swift
 	if traitCollection.preferredContentSizeCategory > .extraExtraLarge { 
@@ -86,11 +89,30 @@ secondLabel.firstBaselineAnchor
 	}
 ```
 
-	Note: Standard table view cells will handle it automatically.
 ---
 
-- TableViews
-	
+Standard table view cells will handle it automatically.
+
+![inline, fit](https://raw.githubusercontent.com/AnnKatF/WWDC17Presentations/master/tableview_layout.jpg)
+
+---
+
+- Allow Images to Scale Up
+
+1. Images as PDF at 1x scale
+2. Asset catalog enable `Preserve Vector Data`
+3. Image view enable `Adjust Image Size`
+
+```swift
+imageView.adjustsImageSizeForAccessibilityContentSizeCategory = true
+```
+
+^ Preserve Vector Data prevents the pdf from being converted into png files for each scale.
+Uses PDF drawing.
+
+---
+
+
 
 
 
